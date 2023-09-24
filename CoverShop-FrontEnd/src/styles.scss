@@ -1,4 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import "./assets/global.scss";
+
 html {
     display: flex;
     justify-content: center;
@@ -7,6 +9,7 @@ html {
 
 body {
     max-width: 2520px;
+    font-family: 'Lexend', sans-serif;
 }
 
 /* Importing Bootstrap SCSS file. */

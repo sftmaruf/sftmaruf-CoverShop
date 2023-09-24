@@ -1,0 +1,14 @@
+<header>
+    <header-layout></header-layout>
+    <banner></banner>
+</header>
+
+<br/>
+
+<main>
+    <div class="row" style="margin: 0px 10px 0 10px">
+        <div *ngFor="let item of products" class="col-12 col-sm-6 col-xl-3 col-xxl-2">
+            <card [product]="item" img='https://a0.muscache.com/im/pictures/miso/Hosting-26300485/original/ee94e6c1-6ebc-496e-af84-1502edd1b759.jpeg?im_w=1200'></card>
+        </div>
+    </div>
+</main>
