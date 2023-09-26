@@ -1,0 +1,25 @@
+.quantity-picker {
+    height: 2rem;
+    line-height: 2rem;
+    border-radius: 5px;
+
+    .increment, .decrement {
+        border-radius: 5px;
+        border: 1px solid #b0b0b0;
+        cursor: pointer;
+
+    }
+
+    .increment {
+        margin-right: .5rem;
+    }
+
+    .quantity {
+        border: 1px solid #b0b0b0;
+        border-radius: 5px;
+    }
+
+    .decrement {
+        margin-left: .5rem;
+    }
+}
