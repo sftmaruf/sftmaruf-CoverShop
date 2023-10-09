@@ -1,0 +1,15 @@
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\bin\Debug\net7.0\CoverShop.Application.deps.json
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\bin\Debug\net7.0\CoverShop.Application.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\bin\Debug\net7.0\CoverShop.Application.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\bin\Debug\net7.0\CoverShop.Domain.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\bin\Debug\net7.0\CoverShop.Domain.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.csproj.AssemblyReference.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.AssemblyInfoInputs.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.AssemblyInfo.cs
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.csproj.CoreCompileInputs.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.csproj.CopyComplete
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\refint\CoverShop.Application.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\CoverShop.Application.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Application\obj\Debug\net7.0\ref\CoverShop.Application.dll

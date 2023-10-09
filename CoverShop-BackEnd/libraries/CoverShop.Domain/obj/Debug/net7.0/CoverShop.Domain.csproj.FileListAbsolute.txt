@@ -1,0 +1,12 @@
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\bin\Debug\net7.0\CoverShop.Domain.deps.json
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\bin\Debug\net7.0\CoverShop.Domain.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\bin\Debug\net7.0\CoverShop.Domain.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.csproj.AssemblyReference.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.AssemblyInfoInputs.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.AssemblyInfo.cs
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.csproj.CoreCompileInputs.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\refint\CoverShop.Domain.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\CoverShop.Domain.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Domain\obj\Debug\net7.0\ref\CoverShop.Domain.dll

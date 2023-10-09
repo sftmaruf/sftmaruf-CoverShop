@@ -1,0 +1,17 @@
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Infrastructure.deps.json
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Infrastructure.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Infrastructure.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.csproj.AssemblyReference.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.AssemblyInfoInputs.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.AssemblyInfo.cs
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\refint\CoverShop.Infrastructure.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\ref\CoverShop.Infrastructure.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Application.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Domain.dll
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Application.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\bin\Debug\net7.0\CoverShop.Domain.pdb
+D:\documents\Codes\Angular\Projects\CoverShop\CoverShop-BackEnd\libraries\CoverShop.Infrastructure\obj\Debug\net7.0\CoverShop.Infrastructure.csproj.CopyComplete

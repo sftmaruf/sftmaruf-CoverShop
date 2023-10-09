@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoverShop.Api.props" />
+</Project>
