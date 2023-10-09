@@ -1,6 +1,7 @@
 ﻿using CoverShop.Infrastructure.Identity.Adapters.Contracts;
 using CoverShop.Infrastructure.Identity.Models;
 using Microsoft.AspNetCore.Identity;
+using System.Security.Claims;
 
 namespace CoverShop.Infrastructure.Identity.Adapters;
 
@@ -28,5 +29,15 @@ public class UserManagerAdapter : IUserManagerAdapter
     public Task<bool> CheckPasswordAsync(ApplicationUser user, string password)
     {
         return _userManager.CheckPasswordAsync(user, password);
+    }
+
+    public Task<IList<Claim>> GetClaimsAsync(ApplicationUser user)
+    {
+        return _userManager.GetClaimsAsync(user);
+    }
+
+    public Task<IList<string>> GetRolesAsync(ApplicationUser user)
+    {
+        return _userManager.GetRolesAsync(user);
     }
 }
